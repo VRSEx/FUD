@@ -1,2 +1,2 @@
 # FUD
-The Church of FUD
+The Book of FUD
